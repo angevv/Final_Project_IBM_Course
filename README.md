@@ -1,1 +1,1 @@
-# Final_Project_IBM_Course
+This repository contains the final project for the IBM Data Analyst Professional certification. It demonstrates various skills such as Jupyter Notebooks, SQL, relational databases (RDBMS) and Business Intelligence (BI) tools such as Google Looker Studio. Additionally, Python libraries such as Pandas, Numpy, Scikit-learn, Scipy, Matplotlib and Seaborn are also applied.  
